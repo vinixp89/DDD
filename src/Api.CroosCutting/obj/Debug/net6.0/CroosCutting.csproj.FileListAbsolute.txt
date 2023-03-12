@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\C sharp\DDD\src\Api.CroosCutting\bin\Debug\net6.0\CroosCutting.deps.json
+C:\Users\User\Desktop\C sharp\DDD\src\Api.CroosCutting\bin\Debug\net6.0\CroosCutting.dll
+C:\Users\User\Desktop\C sharp\DDD\src\Api.CroosCutting\bin\Debug\net6.0\CroosCutting.pdb
+C:\Users\User\Desktop\C sharp\DDD\src\Api.CroosCutting\obj\Debug\net6.0\CroosCutting.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C sharp\DDD\src\Api.CroosCutting\obj\Debug\net6.0\CroosCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C sharp\DDD\src\Api.CroosCutting\obj\Debug\net6.0\CroosCutting.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C sharp\DDD\src\Api.CroosCutting\obj\Debug\net6.0\CroosCutting.AssemblyInfo.cs
+C:\Users\User\Desktop\C sharp\DDD\src\Api.CroosCutting\obj\Debug\net6.0\CroosCutting.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C sharp\DDD\src\Api.CroosCutting\obj\Debug\net6.0\CroosCutting.dll
+C:\Users\User\Desktop\C sharp\DDD\src\Api.CroosCutting\obj\Debug\net6.0\refint\CroosCutting.dll
+C:\Users\User\Desktop\C sharp\DDD\src\Api.CroosCutting\obj\Debug\net6.0\CroosCutting.pdb
+C:\Users\User\Desktop\C sharp\DDD\src\Api.CroosCutting\obj\Debug\net6.0\ref\CroosCutting.dll
+C:\Users\User\Desktop\NET\DDD\src\Api.CroosCutting\bin\Debug\net6.0\CroosCutting.deps.json
+C:\Users\User\Desktop\NET\DDD\src\Api.CroosCutting\bin\Debug\net6.0\CroosCutting.dll
+C:\Users\User\Desktop\NET\DDD\src\Api.CroosCutting\bin\Debug\net6.0\CroosCutting.pdb
+C:\Users\User\Desktop\NET\DDD\src\Api.CroosCutting\obj\Debug\net6.0\CroosCutting.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\NET\DDD\src\Api.CroosCutting\obj\Debug\net6.0\CroosCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\NET\DDD\src\Api.CroosCutting\obj\Debug\net6.0\CroosCutting.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\NET\DDD\src\Api.CroosCutting\obj\Debug\net6.0\CroosCutting.AssemblyInfo.cs
+C:\Users\User\Desktop\NET\DDD\src\Api.CroosCutting\obj\Debug\net6.0\CroosCutting.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NET\DDD\src\Api.CroosCutting\obj\Debug\net6.0\CroosCutting.dll
+C:\Users\User\Desktop\NET\DDD\src\Api.CroosCutting\obj\Debug\net6.0\refint\CroosCutting.dll
+C:\Users\User\Desktop\NET\DDD\src\Api.CroosCutting\obj\Debug\net6.0\CroosCutting.pdb
+C:\Users\User\Desktop\NET\DDD\src\Api.CroosCutting\obj\Debug\net6.0\ref\CroosCutting.dll

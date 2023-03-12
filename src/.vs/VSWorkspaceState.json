@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Api.Aplication",
+    "\\Api.Aplication\\Controllers",
+    "\\Api.Data",
+    "\\Api.Data\\Context",
+    "\\Api.Domain"
+  ],
+  "SelectedNode": "\\Api.Data\\Context\\MyContext.cs",
+  "PreviewInSolutionExplorer": false
+}
